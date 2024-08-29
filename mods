@@ -1,4 +1,3 @@
-Mods:
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Create Contraption Terminals](https://modrinth.com/mod/gOPAFzp0) by tom5454
 - [Create Enchantment Industry](https://modrinth.com/mod/AEZO385x) by MarbleGate, RaymondBlaze
@@ -23,6 +22,7 @@ Mods:
 - [Legendary Tooltips](https://modrinth.com/mod/atHH8NyV) by Grend
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [EMI](https://modrinth.com/mod/fRiHVvU7) by Emi
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
 - [Sodium](https://modrinth.com/mod/AANobbMI) by @jellysquid3
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) by Apollo, SmellyModder
@@ -30,22 +30,25 @@ Mods:
 - [Melody](https://modrinth.com/mod/CVT4pFB2) by Keksuccino
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
+- [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) by Leon
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames
 - [Create: Structures](https://modrinth.com/mod/IAnP4np7) by FusionSwarly
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK_01
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) by Fuzs
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/fgmhI8kH) by ChoiceTheorem
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
+- [Heracles](https://modrinth.com/mod/lo90fZoB) by ThatGravyBoat
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
-- [Create: Big Contraptions](https://modrinth.com/mod/jv0UKGOX) by MuriPlz
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic_Oreo
 - [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
 - [Journeymap](https://modrinth.com/mod/lfHFW1mp) by Mysticdrew, Techbrew
+- [Heracles Button](https://modrinth.com/mod/HibJK04a) by kyber-6, Pixel Dream Studios
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) by The Railways Team
 - [Naturalist](https://modrinth.com/mod/F8BQNPWX) by Starfish Studios
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
-- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
-- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) by Steveplays28
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC
 - [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) by Luke100000
 - [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) by YUNGNICKYOUNG, Acarii
@@ -59,6 +62,7 @@ Mods:
 - [ImmersiveUI](https://modrinth.com/mod/9wv7LuMc) by OctoStudios
 - [Create Deco](https://modrinth.com/mod/sMvUb4Rb) by Kayla, Talrey
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) by Adubbz
+- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Jade Addons](https://modrinth.com/mod/fThnVRli) by Snownee
@@ -81,15 +85,17 @@ Mods:
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) by YUNGNICKYOUNG
 - [Keybind Fix](https://modrinth.com/mod/vuWNr14n) by fzzyhmstrs
 - [Sophisticated Backpacks](https://modrinth.com/mod/ouNrBQtq) by P3pp3rF1y, Ridanisaurus, Salandora
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
 - [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) by YUNGNICKYOUNG, Acarii
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
+- [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
 - [Man of Many Planes](https://modrinth.com/mod/9qdTHi0q) by Luke100000, Man of Many Snails
 - [Create: Trimmed](https://modrinth.com/mod/zvaHXgQz) by TorNato
 - [Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) by Rabbitminers
-- [Sounds](https://modrinth.com/mod/ZouiUX7t)
+- Sounds-2.0.4+1.20.1+fabric
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
-- [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
+- MRU-1.0.2+1.20.1+fabric
 - [Prism](https://modrinth.com/mod/1OE8wbN0) by Grend
 - [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) by YUNGNICKYOUNG, Tera
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) by YUNGNICKYOUNG, Tera
