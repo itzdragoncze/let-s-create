@@ -2,14 +2,9 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- {
-   "id": "1.1.0",
-   "releasedAt": 1752650435,
-   "promotions": {
-   "download": {
-     "modrinth": "https://modrinth.com/project/iqTWtFCu",
-   }
-   }
- }
+    {
+      "id": "1.1.0",
+      "releasedAt": 1685438541000
+    }
   ]
 }
